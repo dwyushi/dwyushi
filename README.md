@@ -39,7 +39,7 @@ An aspiring developer who is still learning and loves creativity! 🫧
   <img src="https://img.shields.io/badge/JavaScript-8676d5?style=for-the-badge&logo=javascript&logoColor=e6e2fb">
 </p>
 
-#### 🔮Enchanted Tools
+#### 🌟Enchanted Tools
 <p>
   <img src="https://img.shields.io/badge/Flutter-8676d5?style=for-the-badge&logo=flutter&logoColor=e6e2fb">
 </p>
@@ -53,4 +53,23 @@ An aspiring developer who is still learning and loves creativity! 🫧
 <p>
   <img src="https://img.shields.io/badge/Figma-8676d5?style=for-the-badge&logo=figma&logoColor=e6e2fb">
 </p>
+
+
+<!-- ## 🧙‍♀️ 𝓣𝓱𝓮 𝓣𝓪𝓵𝓮𝓼 𝓸𝓯 𝓜𝔂𝓽𝓱𝓲𝓬𝓪𝓵 𝓣𝓲𝓭𝓫𝓲𝓽𝓼 𝓸𝓯 𝓓𝔀𝓾 -->
+
+
+---
+## 🔮 𝓢𝓾𝓶𝓶𝓸𝓷 𝓜𝓮 𝒂𝒏𝒅 𝑪𝒐𝒏𝒋𝒖𝒓𝒆 𝒂 𝑪𝒐𝒏𝒏𝒆𝒄𝒕𝒊𝒐𝒏 ✧˖°.
+*only if you must... pls..*
+
+
+#### 🦉Send an Owl Through the Ether: 
+[![Email](https://img.shields.io/badge/Email-8676d5?style=for-the-badge&logo=gmail&logoColor=e6e2fb)](mailto:ramirez.drewallen@gmail.com)  
+
+#### 🌌Step Through the Portal: 
+[![Instagram](https://img.shields.io/badge/Instagram-8676d5?style=for-the-badge&logo=instagram&logoColor=e6e2fb)](https://www.instagram.com/d.x.wn/)  
+[![Threads](https://img.shields.io/badge/Threads-8676d5?style=for-the-badge&logo=threads&logoColor=e6e2fb)](https://www.threads.net/@d.wyu)  
+
+
+
 
