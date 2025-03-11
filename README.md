@@ -1,4 +1,4 @@
-<h1 align="center"> 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓖𝓲𝓽𝓱𝓾𝓫 𝓹𝓻𝓸𝓯𝓲𝓵𝓮 </h1>
+<h1 align="center"> 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓓𝓲𝓰𝓲𝓽𝓪𝓵 𝓓𝓸𝓶𝓪𝓲𝓷 </h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/fh2VhwYZHawxruF0nO/giphy.gif" width="200px">
