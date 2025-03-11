@@ -18,13 +18,13 @@ An aspiring developer who is still learning and loves creativity! 🫧
 &nbsp;&nbsp;&nbsp;&nbsp;✦ Listening to music  
 
 ---
-## 🪄 𝑺𝒑𝒆𝒍𝒍𝒃𝒐𝒖𝒏𝒅 𝑺𝒕𝒂𝒄𝒌 ✶⋆.˚
+## 🪄 𝓢𝓹𝓮𝓵𝓵𝓫𝓸𝓾𝓷𝓭 𝓖𝓻𝓲𝓶𝓸𝓲𝓻𝓮 ✶⋆.˚
 <p align="center">
   <img src="https://media.giphy.com/media/ltnwrUlKwDQPmaA2sI/giphy.gif" width="200px">
 </p>
 
 
-#### ✨Magic Spells (Languages) 
+#### ✨Magic Spells 
 <p>
   <img src="https://img.shields.io/badge/Java-8676d5?style=for-the-badge&logo=java&logoColor=e6e2fb">
   <img src="https://img.shields.io/badge/C++-8676d5?style=for-the-badge&logo=c%2B%2B&logoColor=e6e2fb">
@@ -32,24 +32,24 @@ An aspiring developer who is still learning and loves creativity! 🫧
   <img src="https://img.shields.io/badge/Python-8676d5?style=for-the-badge&logo=python&logoColor=e6e2fb">
 </p>
 
-#### 💫 Mystical Markup (Frontend)
+#### 💫Mystical Markup
 <p>
   <img src="https://img.shields.io/badge/HTML-8676d5?style=for-the-badge&logo=html5&logoColor=e6e2fb">
   <img src="https://img.shields.io/badge/CSS-8676d5?style=for-the-badge&logo=css3&logoColor=e6e2fb">
   <img src="https://img.shields.io/badge/JavaScript-8676d5?style=for-the-badge&logo=javascript&logoColor=e6e2fb">
 </p>
 
-#### 🔮Enchanted Tools (Frameworks & Libraries)
+#### 🔮Enchanted Tools
 <p>
   <img src="https://img.shields.io/badge/Flutter-8676d5?style=for-the-badge&logo=flutter&logoColor=e6e2fb">
 </p>
 
-#### 📜Ancient Scripts (Database)
+#### 📜Ancient Scripts
 <p>
   <img src="https://img.shields.io/badge/MySQL-8676d5?style=for-the-badge&logo=mysql&logoColor=e6e2fb">
 </p>
 
-#### 🌠Pixie Palette (Design & UI/UX)
+#### 🌠Pixie Palette
 <p>
   <img src="https://img.shields.io/badge/Figma-8676d5?style=for-the-badge&logo=figma&logoColor=e6e2fb">
 </p>
