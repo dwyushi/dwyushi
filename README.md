@@ -30,6 +30,10 @@ An aspiring developer who is still learning and loves creativity! 🫧
   <img src="https://img.shields.io/badge/C++-8676d5?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Dart-8676d5?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/Python-8676d5?style=for-the-badge&logo=python&logoColor=white">
+</p>
+
+#### 💫 Mystical Markup (Frontend)
+<p>
   <img src="https://img.shields.io/badge/HTML-8676d5?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-8676d5?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-8676d5?style=for-the-badge&logo=javascript&logoColor=white">
@@ -38,6 +42,11 @@ An aspiring developer who is still learning and loves creativity! 🫧
 #### 🔮Enchanted Tools (Frameworks & Libraries)
 <p>
   <img src="https://img.shields.io/badge/Flutter-8676d5?style=for-the-badge&logo=flutter&logoColor=white">
+</p>
+
+#### 📜Ancient Scripts (Database)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-8676d5?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
 #### 🌠Pixie Palette (Design & UI/UX)
