@@ -54,8 +54,10 @@ An aspiring developer who is still learning and loves creativity! 🫧
   <img src="https://img.shields.io/badge/Figma-8676d5?style=for-the-badge&logo=figma&logoColor=e6e2fb">
 </p>
 
+---
 
-<!-- ## 🧙‍♀️ 𝓣𝓱𝓮 𝓣𝓪𝓵𝓮𝓼 𝓸𝓯 𝓜𝔂𝓽𝓱𝓲𝓬𝓪𝓵 𝓣𝓲𝓭𝓫𝓲𝓽𝓼 𝓸𝓯 𝓓𝔀𝓾 -->
+<!--## 🧙‍♀️ 𝓣𝓱𝓮 𝓣𝓪𝓵𝓮𝓼 𝓸𝓯 𝓜𝔂𝓽𝓱𝓲𝓬𝓪𝓵 𝓣𝓲𝓭𝓫𝓲𝓽𝓼 𝓸𝓯 𝓓𝔀𝓾-->
+
 
 
 ---
@@ -67,9 +69,8 @@ An aspiring developer who is still learning and loves creativity! 🫧
 [![Email](https://img.shields.io/badge/Email-8676d5?style=for-the-badge&logo=gmail&logoColor=e6e2fb)](mailto:ramirez.drewallen@gmail.com)  
 
 #### 🌌Step Through the Portal: 
-[![Instagram](https://img.shields.io/badge/Instagram-8676d5?style=for-the-badge&logo=instagram&logoColor=e6e2fb)](https://www.instagram.com/d.x.wn/)  
-[![Threads](https://img.shields.io/badge/Threads-8676d5?style=for-the-badge&logo=threads&logoColor=e6e2fb)](https://www.threads.net/@d.wyu)  
-
-
-
+[![Instagram](https://img.shields.io/badge/d.wyu-8676d5?style=for-the-badge&logo=instagram&logoColor=e6e2fb)](https://www.instagram.com/d.x.wn/)  
+[![Threads](https://img.shields.io/badge/d.wyu-8676d5?style=for-the-badge&logo=threads&logoColor=e6e2fb)](https://www.threads.net/@d.wyu)    
+[![X](https://img.shields.io/badge/dwyushi-8676d5?style=for-the-badge&logo=X&logoColor=e6e2fb)](https://x.com/dwyushi)  
+[![Bluesky](https://img.shields.io/badge/dwyu.bsky.social-8676d5?style=for-the-badge&logo=Bluesky&logoColor=e6e2fb)](https://bsky.app/profile/dwyu.bsky.social)
 
