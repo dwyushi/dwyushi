@@ -1,5 +1,4 @@
 <h1 align="center"> 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓓𝓲𝓰𝓲𝓽𝓪𝓵 𝓓𝓸𝓶𝓪𝓲𝓷 </h1>
-
 <p align="center">
   <img src="https://media.giphy.com/media/fh2VhwYZHawxruF0nO/giphy.gif" width="200px">
 </p>
@@ -54,11 +53,13 @@ An aspiring developer who is still learning and loves creativity! 🫧
   <img src="https://img.shields.io/badge/Figma-8676d5?style=for-the-badge&logo=figma&logoColor=e6e2fb">
 </p>
 
+<!--
+---
+## 🧙‍♀ 𝓤𝓷𝓿𝓮𝓲𝓵𝓲𝓷𝓰 𝓽𝓱𝓮 𝓛𝓸𝓼𝓽 𝓟𝓪𝓰𝓮 °❀⋆.ೃ࿔*:･
 
 
-<!--## 🧙‍♀️ 𝓣𝓱𝓮 𝓣𝓪𝓵𝓮𝓼 𝓸𝓯 𝓜𝔂𝓽𝓱𝓲𝓬𝓪𝓵 𝓣𝓲𝓭𝓫𝓲𝓽𝓼 𝓸𝓯 𝓓𝔀𝓾-->
 
-
+-->
 
 ---
 ## 🔮 𝓢𝓾𝓶𝓶𝓸𝓷 𝓜𝓮 𝓪𝓷𝓭 𝓒𝓸𝓷𝓳𝓾𝓻𝓮 𝓪 𝓒𝓸𝓷𝓷𝓮𝓬𝓽𝓲𝓸𝓷 ✧˖°.
