@@ -54,7 +54,7 @@ An aspiring developer who is still learning and loves creativity! 🫧
   <img src="https://img.shields.io/badge/Figma-8676d5?style=for-the-badge&logo=figma&logoColor=e6e2fb">
 </p>
 
----
+
 
 <!--## 🧙‍♀️ 𝓣𝓱𝓮 𝓣𝓪𝓵𝓮𝓼 𝓸𝓯 𝓜𝔂𝓽𝓱𝓲𝓬𝓪𝓵 𝓣𝓲𝓭𝓫𝓲𝓽𝓼 𝓸𝓯 𝓓𝔀𝓾-->
 
