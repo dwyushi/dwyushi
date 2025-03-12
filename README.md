@@ -25,7 +25,7 @@ An aspiring developer who is still learning and loves creativity! 🫧
 
 #### ✨Magic Spells 
 <p>
-  <img src="https://img.shields.io/badge/Java-8676d5?style=for-the-badge&logo=java&logoColor=e6e2fb">
+  <img src="https://img.shields.io/badge/Java-8676d5?style=for-the-badge&logo=Java&logoColor=e6e2fb">
   <img src="https://img.shields.io/badge/C++-8676d5?style=for-the-badge&logo=c%2B%2B&logoColor=e6e2fb">
   <img src="https://img.shields.io/badge/Dart-8676d5?style=for-the-badge&logo=dart&logoColor=e6e2fb">
   <img src="https://img.shields.io/badge/Python-8676d5?style=for-the-badge&logo=python&logoColor=e6e2fb">
