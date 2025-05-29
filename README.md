@@ -68,7 +68,7 @@ An aspiring developer who is still learning and loves creativity! 🫧
 
 
 #### 🦉Send an Owl Through the Ether: 
-[![Email](https://img.shields.io/badge/Email-8676d5?style=for-the-badge&logo=gmail&logoColor=e6e2fb)](mailto:ramirez.drewallen@gmail.com)  
+[![@ramirez.drewallen@gmail.com](https://img.shields.io/badge/Email-8676d5?style=for-the-badge&logo=gmail&logoColor=e6e2fb)](mailto:ramirez.drewallen@gmail.com)  
 
 #### 🌌Step Through the Portal: 
 [![Instagram](https://img.shields.io/badge/d.wyu-8676d5?style=for-the-badge&logo=instagram&logoColor=e6e2fb)](https://www.instagram.com/d.x.wn/)  
