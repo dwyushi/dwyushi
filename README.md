@@ -41,6 +41,7 @@ An aspiring developer who is still learning and loves creativity! 🫧
 #### 🌟Enchanted Tools
 <p>
   <img src="https://img.shields.io/badge/Flutter-8676d5?style=for-the-badge&logo=flutter&logoColor=e6e2fb">
+  <img src="https://img.shields.io/badge/Laravel-8676d5?style=for-the-badge&logo=laravel&logoColor=e6e2fb">
 </p>
 
 #### 📜Ancient Scripts
